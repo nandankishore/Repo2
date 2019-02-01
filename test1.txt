@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 8A73-B8BE
+
+ Directory of C:\Users\ADMIN\Desktop\GITMyProject
+
+02/01/2019  10:48 PM    <DIR>          .
+02/01/2019  10:48 PM    <DIR>          ..
+02/01/2019  10:48 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  139,810,205,696 bytes free
